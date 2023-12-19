@@ -17,8 +17,8 @@ Passionate about both web development and the limitless possibilities of artific
 - **B.Tech in Data Science and Machine Learning, [Your University] (Expected Graduation: Month Year)**
 
 ### Contact
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Email:** your.email@example.com
+- **LinkedIn:** (https://www.linkedin.com/in/banuprasad-buddhula-1aa969178)
+- **Email:** banuprasad2025@gmail.com
 - **Portfolio:** [Link to your portfolio if available]
 
 I'm actively seeking opportunities to contribute my skills and enthusiasm to real-world projects. Let's connect and explore the possibilities at the intersection of web development and AI!
